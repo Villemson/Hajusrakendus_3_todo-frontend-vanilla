@@ -1,0 +1,13 @@
+# Ignoreerime keskkonnaseaded ja tundlikud andmed
+.env
+config/secrets.json
+
+# Ignoreerime node_modules kausta
+node_modules/
+
+# Ignoreerime logifailid
+*.log
+
+# Ignoreerime kohalikud ajutised failid
+*.tmp
+*.temp
